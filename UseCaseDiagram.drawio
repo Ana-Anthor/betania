@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T15:46:39.579Z" agent="5.0 (Windows)" etag="XwmouLEighlLpEClZQtS" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T16:02:19.311Z" agent="5.0 (Windows)" etag="FCDGAUVJE9Hhz6sF0Jsp" version="14.6.13" type="github">
   <diagram id="K3MPsnKXCPBBOhKjyE_E" name="Page-1">
-    <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,10 +172,19 @@
             <mxPoint x="570" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1y4Z22NVoQJXuxaL5ozE-11" value="Redigere" style="endArrow=classic;html=1;exitX=0.025;exitY=0.325;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zprhe3EmomJMRAkyWW9E-27" target="1y4Z22NVoQJXuxaL5ozE-8">
+        <mxCell id="1y4Z22NVoQJXuxaL5ozE-11" value="Redigere" style="endArrow=classic;html=1;entryX=1;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zprhe3EmomJMRAkyWW9E-4" target="1y4Z22NVoQJXuxaL5ozE-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="520" as="sourcePoint" />
             <mxPoint x="570" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1y4Z22NVoQJXuxaL5ozE-12" value="Legge til / fjerne andre administratorer" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="730" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1y4Z22NVoQJXuxaL5ozE-13" value="" style="endArrow=classic;html=1;entryX=0.725;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zprhe3EmomJMRAkyWW9E-4" target="1y4Z22NVoQJXuxaL5ozE-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="430" as="sourcePoint" />
+            <mxPoint x="570" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
