@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T18:53:10.612Z" agent="5.0 (Windows)" etag="rrQwjqOVWTvCG2FxuU_D" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T19:12:45.597Z" agent="5.0 (Windows)" etag="uiVLwM8uIaM1F839DGOL" version="14.6.13" type="github">
   <diagram id="K3MPsnKXCPBBOhKjyE_E" name="Page-1">
     <mxGraphModel dx="2522" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -252,6 +252,9 @@
             <mxPoint x="520" y="450" as="sourcePoint" />
             <mxPoint x="570" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1y4Z22NVoQJXuxaL5ozE-33" value="&lt;div&gt;Gi en gave&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="440" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
