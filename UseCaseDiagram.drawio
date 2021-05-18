@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T18:36:33.230Z" agent="5.0 (Windows)" etag="21nJL4kd_tFGBB0Ge0Z5" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T18:48:16.430Z" agent="5.0 (Windows)" etag="3xTHB2GueL937JS_0x7k" version="14.6.13" type="github">
   <diagram id="K3MPsnKXCPBBOhKjyE_E" name="Page-1">
     <mxGraphModel dx="2522" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zprhe3EmomJMRAkyWW9E-32" value="Kontakt info" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="580" width="120" height="80" as="geometry" />
+          <mxGeometry x="440" y="550" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zprhe3EmomJMRAkyWW9E-33" value="Se" style="endArrow=classic;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zprhe3EmomJMRAkyWW9E-1" target="zprhe3EmomJMRAkyWW9E-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -191,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1y4Z22NVoQJXuxaL5ozE-17" value="Opptak" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="450" y="940" width="120" height="80" as="geometry" />
+          <mxGeometry x="230" y="710" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1y4Z22NVoQJXuxaL5ozE-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="zprhe3EmomJMRAkyWW9E-5" target="1y4Z22NVoQJXuxaL5ozE-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
